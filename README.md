@@ -23,6 +23,15 @@ note:: its important to select empty file (because otherwise program will think 
 
 3. type some sh*t
 
-![pic](https://i.ibb.co/QQvny0f/Bez-naslova.png)
+![pic](https://i.ibb.co/YTFwFSH/1123d.png)
+
+4. encrypt it 
+
+![pic](https://i.ibb.co/HtGXKh7/dfg.png)
+
+5. You done? close window
+
+
+6. you want to open it agen? remeber password? good just select that file and type ur password 
 
 
