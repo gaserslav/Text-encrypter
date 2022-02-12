@@ -7,15 +7,22 @@
 
 >Here is how it works 
 
+1. Select empty file where will be all data stored 
+
 ![pic1](https://i.ibb.co/tc0zNWY/Bez-naslova.png)
 
 
-its important to select empty file (because otherwise program will think that there is already encrypted data in that file and will try to decrypt it(it make you insert key))
+note:: its important to select empty file (because otherwise program will think that there is already encrypted data in that file and will try to decrypt it(it make you insert key))
+
+
+2. Insert password that key will be generated from (remember it or you wont be able to access that file)
 
 ![pic2](https://i.ibb.co/bszLTPX/Bez-naslova.png)
 
 
-type some sh*t
+
+3. type some sh*t
 
 ![pic](https://i.ibb.co/QQvny0f/Bez-naslova.png)
+
 
