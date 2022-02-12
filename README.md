@@ -8,3 +8,14 @@
 >Here is how it works 
 
 ![pic1](https://i.ibb.co/tc0zNWY/Bez-naslova.png)
+
+
+its important to select empty file (because otherwise program will think that there is already encrypted data in that file and will try to decrypt it(it make you insert key))
+
+![pic2](https://i.ibb.co/bszLTPX/Bez-naslova.png)
+
+
+type some sh*t
+
+![pic](https://i.ibb.co/QQvny0f/Bez-naslova.png)
+
