@@ -89,7 +89,7 @@ public class App implements ActionListener {
 
         switch (mod){
             case 1:{
-                //when content is encryted and here we decript it
+                //when content is encryted and we want to decrypt it
                 byte[] b=decrypt(content);
                 area.setText(new String(b));
                 area.setEditable(true);
@@ -98,7 +98,7 @@ public class App implements ActionListener {
             }break;
 
             case 2:{
-                //when content is decrypted and we encript it
+                //when content is decrypted and we want to encrypt it
                 content=encrypt(area.getText().getBytes());
                 area.setText(new String(content));
                 area.setEditable(false);
@@ -156,7 +156,7 @@ public class App implements ActionListener {
             FileInputStream fis = new FileInputStream(Page);
             byte[] b=fis.readAllBytes();
             fis.close();
-            //its important cuz it shouldnt open non encrypted files yet it should open emty files
+            //if we open file for the first time
             if(b==null || b.length==0){
                 content="".getBytes();
                 System.out.println(b+"  "+b.length);
